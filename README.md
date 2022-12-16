@@ -23,7 +23,7 @@ The sensationalism of not-so-accurate eye-catching and intriguing headlines aime
 
  
 
-Objectives
+OBJECTIVES
 ---
 
 1. Our sole objective is to classify the news from the dataset as fake or true news.
@@ -31,4 +31,7 @@ Objectives
 2. Extensive EDA of news
 
 3. Selecting and building a powerful model for classification
+
+
+Slideshare Link - https://www.slideshare.net/SoumyendraShrivastav/cmpe255-term-projectpptx
 
