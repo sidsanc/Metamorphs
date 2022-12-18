@@ -35,4 +35,4 @@ OBJECTIVES
 
 Slideshare Link - https://www.slideshare.net/SoumyendraShrivastav/cmpe255-term-projectpptx
 
-Demo Video Link - https://drive.google.com/file/d/1zRnwle3jtI2xPencIo7Y4Quhkl9ILzmX/view?usp=share_link
+Demo Video Link - https://youtu.be/PfirdwczUZU
