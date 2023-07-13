@@ -2,7 +2,7 @@
 Fake news detector
 
 Welcome to our repository for our CMPE255 - data mining Final project. 
-Our team is Soumyendra Shrivastava, Siddhant Sancheti, Wesley Shih. 
+Our team isSiddhant Sancheti, Soumyendra Shrivastava, Wesley Shih. 
 
 ABSTRACT
 ---
@@ -33,6 +33,6 @@ OBJECTIVES
 3. Selecting and building a powerful model for classification
 
 
-Slideshare Link - https://www.slideshare.net/SoumyendraShrivastav/cmpe255-term-projectpptx
+[Slideshare Link](https://www.slideshare.net/SoumyendraShrivastav/cmpe255-term-projectpptx)
 
-Demo Video Link - https://youtu.be/PfirdwczUZU
+[Demo Video Link](https://youtu.be/PfirdwczUZU)
