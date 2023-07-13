@@ -2,7 +2,7 @@
 Fake news detector
 
 Welcome to our repository for our CMPE255 - data mining Final project. 
-Our team isSiddhant Sancheti, Soumyendra Shrivastava, Wesley Shih. 
+Our team is Siddhant Sancheti, Soumyendra Shrivastava, Wesley Shih. 
 
 ABSTRACT
 ---
